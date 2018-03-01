@@ -1,0 +1,26 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "asdf",
+  "main": "server.js",
+  "scripts": {
+    "test": "asdf",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristinaSas/Calculator.git"
+  },
+  "keywords": [
+    "asdf"
+  ],
+  "author": "asdf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristinaSas/Calculator/issues"
+  },
+  "homepage": "https://github.com/ChristinaSas/Calculator#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
